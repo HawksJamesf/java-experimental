@@ -2,6 +2,6 @@
 
 # 1.counter
 
-![](image/device-2017-05-09-133200.png)
+![](images/device-2017-05-09-133200.png)
 
 
